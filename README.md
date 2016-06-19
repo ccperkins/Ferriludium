@@ -2,5 +2,6 @@
 
 The Ferriludium repository is a group for the several project-level repositories planned.
 
-Currently there is only one:
-FeCache
+Currently there are only two:
+* FeCache
+* FeSimpleGeoProx  
